@@ -1,2 +1,2 @@
 # PDFExtractTXT
-Extracting text from a PDF file Usinf Tkinter
+Extracting text from a PDF file using Tkinter
